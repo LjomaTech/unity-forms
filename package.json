@@ -1,0 +1,28 @@
+{
+    "name": "com.ljomatech.forms",
+    "version": "1.0.0",
+    "displayName": "LjomaTech Forms",
+    "description": "A comprehensive Unity UI forms management system with validation, multiple input types, and form submission handling.",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    "author": {
+        "name": "LjomaTech",
+        "email": "support@ljomatech.com",
+        "url": "https://ljomatech.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LjomaTech/unity-forms.git"
+    },
+    "keywords": [
+        "forms",
+        "ui",
+        "input",
+        "validation",
+        "textmeshpro"
+    ],
+    "license": "MIT",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.0"
+    }
+}
