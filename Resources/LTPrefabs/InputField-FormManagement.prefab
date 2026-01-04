@@ -67,8 +67,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: This is a warning example for validation.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
-  m_sharedMaterial: {fileID: -4595089429283135004, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -201,8 +201,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u200B"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
-  m_sharedMaterial: {fileID: -4595089429283135004, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -337,8 +337,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
-  m_sharedMaterial: {fileID: -4595089429283135004, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -591,9 +591,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 3994635673240995788}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2b0e95159f9e814cb68cefdde3fc05a, type: 3}
+  m_Script: {fileID: 11500000, guid: 40dd850aa3b82224d90dd6240a9e905f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  InputName: 
+  InputLabel: {fileID: 0}
+  InputWarningText: {fileID: 0}
+  IsReadOnly: 0
+  isRequired: 0
+  InputType: 0
+  ContentType: 0
+  CharacterValidation: 0
+  IsCharacterLimit: 0
+  CharacterLimit: 0
+  MinCharacterLimit: 0
+  RegexPattern: 
+  RegexMessage: 
 --- !u!1 &5868277233571112950
 GameObject:
   m_ObjectHideFlags: 0
@@ -662,8 +675,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: John doe
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
-  m_sharedMaterial: {fileID: -4595089429283135004, guid: 42a49a9e83fdbc74a8b868e3494f6c80, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

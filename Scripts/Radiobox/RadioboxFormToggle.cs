@@ -17,14 +17,14 @@ namespace LjomaAssets.FormManagement.Inputs
         public TMP_Text Label;
 
         [HideInInspector]
-        public Toggle Toggle;
+        public UnityEngine.UI.Toggle Toggle;
 
         private void Awake()
         {
-            Toggle = GetComponent<Toggle>();
+            Toggle = GetComponent<UnityEngine.UI.Toggle>();
             if (Toggle == null)
             {
-                Toggle = GetComponentInChildren<Toggle>();
+                Toggle = GetComponentInChildren<UnityEngine.UI.Toggle>();
             }
         }
 
@@ -35,10 +35,10 @@ namespace LjomaAssets.FormManagement.Inputs
         {
             if (Toggle == null)
             {
-                Toggle = GetComponent<Toggle>();
+                Toggle = GetComponent<UnityEngine.UI.Toggle>();
                 if (Toggle == null)
                 {
-                    Toggle = GetComponentInChildren<Toggle>();
+                    Toggle = GetComponentInChildren<UnityEngine.UI.Toggle>();
                 }
             }
 
