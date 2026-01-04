@@ -1,0 +1,19 @@
+{
+    "name": "LjomaTech.Forms.Editor",
+    "rootNamespace": "LjomaAssets.FormManagement.Editor",
+    "references": [
+        "LjomaTech.Forms",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
