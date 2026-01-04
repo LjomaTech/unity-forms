@@ -595,8 +595,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   InputName: 
-  InputLabel: {fileID: 0}
-  InputWarningText: {fileID: 0}
+  InputLabel: {fileID: 428606962805845004}
+  InputWarningText: {fileID: 3655687605639778022}
   IsReadOnly: 0
   isRequired: 0
   InputType: 0
