@@ -2,7 +2,8 @@
     "name": "LjomaTech.Forms",
     "rootNamespace": "LjomaAssets.FormManagement",
     "references": [
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "UnityEngine.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
